@@ -1,0 +1,19 @@
+{
+  "name": "amtixdev-timestamp-generator",
+  "version": "1.0.0",
+  "description": "A simple npm package to generate Discord timestamps based on user-specified durations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmtixDev/amtixdev-timestamp-generator.git"
+  },
+  "keywords": [
+    "timestamp-generator",
+    "timestamp"
+  ],
+  "author": "AmtiXDev",
+  "license": "ISC"
+}
